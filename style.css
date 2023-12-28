@@ -1,0 +1,83 @@
+*
+{
+    padding:0;
+    margin:0;
+}
+
+body
+{
+    background-color:#06d6a0;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.Container
+{
+    border:2px;
+    text-align: center;
+    margin-top: 180px;
+    background-color: aliceblue;
+    margin-bottom: 40px;
+    border-radius: 40px;
+    padding-top: 20px;
+}
+.mainbox
+{
+    padding-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    display: inline-block;
+    
+}
+button {
+    height: 80px;
+    width: 80px;
+    margin: 1px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: aliceblue;
+    vertical-align:middle; /* or vertical-align: top; */
+    box-shadow:0 0 1rem rgba(0, 0, 0, 0.4);
+}
+
+
+/* button 
+{
+    height:80px;
+    width: 80px;
+    margin:1px;
+    border:2px solid black;
+    border-radius:5px;
+    background-color: aliceblue;
+} */
+.reset
+{
+    height: 40px;
+    width: 90px;
+    font-size: 20px;
+
+}
+
+.gameb
+{
+    font-size: 28px;
+    font-weight: bold;
+    color:red;
+}
+
+#win-msg{
+    font-size: 30px;
+    font-weight: bolder;
+    color:black;
+}
+
+.dont-disclose
+{
+    display:none;
+}
