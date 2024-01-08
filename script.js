@@ -46,7 +46,7 @@ gameb.forEach((button) => {
 });
 let whoWinner=(win) =>
  {
-    winmsg.innerText=`wohoo..! The winner is ${win}`;
+    winmsg.innerText=`Wohoo..! The winner is ${win}`;
     winmsgcont.classList.remove("dont-disclose");
     finish();
 };
