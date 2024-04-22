@@ -1,6 +1,6 @@
 # Tic Tac Toe
 This is the Old and Classic game named Tic Tac Toe.The game is made using HTML ,CSS and Javascript
-## How to play
+## How to play without downloading the Repository
  1. Go to the website and play
   
     ```bash
