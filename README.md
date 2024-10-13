@@ -12,7 +12,5 @@ This is the Old and Classic game named Tic Tac Toe.The game is made using HTML ,
    ```bash
    git clone https://github.com/DarkDeity001/Tic_Tac_Toe_Game.git
    ```
-3. Or use the link to direclty play the game.
-   ```bash
-   https://drdead0.github.io/Tic_Tac_Toe_Game/
-   ```
+3. Or use the link to direclty play the game.<br>
+   [Click Here to play the Game ](https://drdead0.github.io/Tic_Tac_Toe_Game/)
